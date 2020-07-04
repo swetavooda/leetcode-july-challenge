@@ -1,3 +1,6 @@
+//problem link :https://leetcode.com/problems/prison-cells-after-n-days/
+
+
 class Solution {
     int[] prison(int[] a)
     {
